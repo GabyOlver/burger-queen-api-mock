@@ -101,7 +101,29 @@
       "email": "grace.hopper@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
-      "id": 2
+      "id": 2,
+      "name": "Grace"
+    },
+    {
+      "email": "meserito@gmail.com",
+      "password": "$2a$10$cW2Vl6t39P1Tn7Mun1/k2uCDtZinNcdV94oieOEYP1fYCoH07qd7i",
+      "id": 3,
+      "name": "Emi",
+      "role": "waiter"
+    },
+    {
+      "email": "chefsito@gmail.com",
+      "password": "$2a$10$5azpz0PUMdhL9jeCkW.1yuhwyzOLrUUA62CkcJ5zsqbQFQBpn77K6",
+      "id": 4,
+      "name": "Vale",
+      "role": "chef"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$XY7DjGi0ouplSpQobYO44e8g13QMR21C2jwKnkFM7ojcf.J/NcoLm",
+      "id": 5,
+      "name": "Tobi",
+      "role": "admin"
     }
   ]
 }
